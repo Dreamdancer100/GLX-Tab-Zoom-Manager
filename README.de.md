@@ -149,6 +149,22 @@ Besonders praktisch ist die getrennte Speicherung für komplexe Weboberflächen,
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Zoom für die aktuelle Seite einstellen und speichern
+
+<p align="center"><img src="screenshots/01-popup.jpg" alt="Zoom für die aktuelle Seite einstellen und speichern" width="850"></p>
+
+### 2️⃣ Design, Sprache und gespeicherte Seiten
+
+<p align="center"><img src="screenshots/02-settings.jpg" alt="Design, Sprache und gespeicherte Seiten" width="850"></p>
+
+### 3️⃣ Ordner, Ausnahmen und Sicherung
+
+<p align="center"><img src="screenshots/03-folders.jpg" alt="Ordner, Ausnahmen und Sicherung" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Zoom pro Adresse:** Speichert eine eigene Zoomstufe für jede Webadresse, auch für Unterseiten.

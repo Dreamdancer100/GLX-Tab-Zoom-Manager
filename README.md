@@ -133,6 +133,22 @@ The separate storage is especially handy for complex web interfaces where differ
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Set and save the zoom for the current page
+
+<p align="center"><img src="screenshots/01-popup.jpg" alt="Set and save the zoom for the current page" width="850"></p>
+
+### 2️⃣ Design, language and saved pages
+
+<p align="center"><img src="screenshots/02-settings.jpg" alt="Design, language and saved pages" width="850"></p>
+
+### 3️⃣ Folders, exceptions and backup
+
+<p align="center"><img src="screenshots/03-folders.jpg" alt="Folders, exceptions and backup" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Zoom per address:** Saves an individual zoom level for every web address, including # sub-pages.
